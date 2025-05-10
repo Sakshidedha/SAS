@@ -1,0 +1,14 @@
+Name,Age,Gender,  Q.1 How satisfied are you with your Smart Toothbrush overall?  ,Q.2 How easy was it to set up and start using the Smart Toothbrush?,Q.3  How effective do you find the toothbrush in cleaning your teeth compared to a regular toothbrush?,Q.4 Which features do you use the most?  ,  Q.5 Have you experienced any technical issues with the Smart Toothbrush?  ,Q.6 How useful do you find the AI feedback and brushing recommendations?,  Q.7 How satisfied are you with the battery life of the toothbrush?  ,  Q.8 How often do you sync your toothbrush with the mobile app?  ,Q.9 What is your opinion on the overall quality of the product?,  Q.10 Would you recommend this Smart Toothbrush to others?,Sentiment
+Vidhi,25,Female,4,Easy,Slightly Better,"Pressure Sensor, Brushing Timer",No,4,4,Occasionally,Good product,Yes,Neutral
+Sneha,23,Female,3,Neutral,Slightly Better,"Brushing Timer, Bluetooth Sync",No,3,3,Weekly,Great product,Yes,Positive
+Ruhi,26,Female,4,Neutral,Much Better,"Pressure Sensor, Bluetooth Sync",No,3,3,Occasionally,Good Product,Yes,Neutral
+Gauri ,23,Female,3,Neutral,About the Same,"AI Feedback, Pressure Sensor",No,3,3,Occasionally,Nice product ,Yes ,Neutral
+Vijay,43,Male,2,Neutral,About the Same,Bluetooth Sync,Yes,2,3,Never,Not bad ,No,Neutral
+Nikita ,21,Female,3,Neutral,Slightly Better,"AI Feedback, Pressure Sensor, Brushing Timer",Not really ,3,3,Weekly,Overall good quality ,Yes ,Neutral
+Geetanjali ,49,Female,1,Difficult,About the Same,Brushing Timer,Yes,2,2,Never,I don’t like this product ,No,Neutral
+Geeta,45,Female,4,Neutral,Much Better,Pressure Sensor,Yes but manageable ,4,3,Occasionally,Very good quality ,Yes ,Neutral
+Anshul ,27,Male,4,Easy,Much Better,"AI Feedback, Brushing Timer, Bluetooth Sync",No,4,4,Weekly,Very good,Yes,Neutral
+Gopal,17,Male,2,Difficult,About the Same,Brushing Timer,Yes very much,1,2,Never,Difficult to use,No,Neutral
+Vaibhav ,37,Male,0,Difficult,Much Worse,No feature,"Yes,  a lot",0,0,Never,I hate the product. ,Never ,Negative
+Kashish ,30,Female,1,Difficult,Slightly Worse,Pressure Sensor,Yes,1,1,Occasionally,"Not very helpful,  ",No,Neutral
+Vaibhav ,32,Male,4,Easy,Much Better,"AI Feedback, Brushing Timer, Bluetooth Sync",No,4,4,Weekly,Love this Product,Yes,Positive
